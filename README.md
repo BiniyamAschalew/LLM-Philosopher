@@ -1,2 +1,3 @@
 # LLM-Philosopher
-HSS405 project
+
+The following project is evaluation code for LLM philosopher project for HSS405 course
